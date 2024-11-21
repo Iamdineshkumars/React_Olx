@@ -1,0 +1,192 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "The iPhone 9 offers a powerful performance and a sleek design.",
+        "category": "mobiles",
+        "price": 799,
+        "location": "New York",
+        "seller": {
+          "id": 1,
+          "name": "John Doe",
+          "email": "johndoe@example.com"
+        },
+        "images": [
+            "https://media.istockphoto.com/id/503742830/photo/rose-gold-apple-iphone-6s-with-ios-9-dynamic-wallpaper.jpg?s=612x612&w=0&k=20&c=F_WLgYDOAJrWgIxwt4Q8kkcZJjdRQ9eK_Rph_PRCDSU="
+            
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "The iPhone X features a stunning OLED display and a powerful A11 Bionic chip.",
+        "category": "mobiles",
+        "price": 899,
+        "location": "San Francisco",
+        "seller": {
+          "id": 1,
+          "name": "John Doe",
+          "email": "johndoe@example.com"
+        },
+        "images": [
+           "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0Wz5ByxTsIzzbG0YIokf0knvAWPB_52AXyH_bWXKJBJeDdzb5bVu34ZD5cPsV2c4ca26LM1sQGDBIqe0kwcIG6be3mnl6_WJZ84HATyGiydoPxQLU5OMc"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "The Samsung Universe 9 offers a large display and a powerful camera system.",
+        "category": "mobiles",
+        "price": 699,
+        "location": "Los Angeles",
+        "seller": {
+          "id": 1,
+          "name": "John Doe",
+          "email": "johndoe@example.com"
+        },
+        "images": [
+          "https://admin.hyperce.io/assets/thumbnail__12__preview.jpg?w=800"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "The OPPOF19 is a stylish and feature-packed smartphone.",
+        "category": "mobiles",
+        "price": 549,
+        "location": "Houston",
+        "seller": {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "janesmith@example.com"
+        },
+        "images": [
+          "https://sell.gameloot.in/wp-content/uploads/sites/4/2023/06/OPPO-F19-Pro-Plus-5G-GB-RAM-128GB-Storage.jpg"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "The Huawei P30 offers a stunning camera system and long battery life.",
+        "category": "mobiles",
+        "price": 649,
+        "location": "Chicago",
+        "seller": {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "janesmith@example.com"
+        },
+        "images": [
+           "https://i.gadgets360cdn.com/products/large/1553612275_635_huawei_p30.jpg"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 6,
+        "title": "MacBook Pro",
+        "description": "The MacBook Pro is a powerful and versatile laptop for professionals.",
+        "category": "laptops",
+        "price": 1799,
+        "location": "New York",
+        "seller": {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "janesmith@example.com"
+        },
+        "images": [
+           "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQEzIwrr21BLAKjAspbIbBflD3wZkW7xLde2W-BpKG4JCa1DR3cVMByfMrMgtv8OOoCmouvouuv3_83aab9w8kwwnYv3-uT4r_FO2Xd6ncpRrbXHeQSUCgYuM"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 7,
+        "title": "Samsung Galaxy Book",
+        "description": "The Samsung Galaxy Book is a sleek and powerful 2-in-1 laptop.",
+        "category": "laptops",
+        "price": 1299,
+        "location": "Los Angeles",
+        "seller": {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "janesmith@example.com"
+        },
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4eToofX-4g7rQXE1DejM5j5b8ACApJbU7KmZ11cexOnzwHqre7JlQRG3gti-FxDlPXJxI35t-IcpmiC_Cg6Ssh1FidKddpFVvaGhwIxGcU9FP6cVrKEU0wg"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 8,
+        "title": "Microsoft Surface Laptop 4",
+        "description": "The Microsoft Surface Laptop 4 offers a balance of performance and portability.",
+        "category": "laptops",
+        "price": 1399,
+        "location": "San Francisco",
+        "seller": {
+          "id": 3,
+          "name": "Emily Johnson",
+          "email": "emilyjohnson@example.com"
+        },
+        "images": [
+          "https://support.content.office.net/en-us/media/b21b03e7-ea23-4339-99b8-185e3d3e916e.png"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 9,
+        "title": "Samsung Galaxy Book - 2023",
+        "description": "The Samsung Galaxy Book is a sleek and powerful 2-in-1 laptop.",
+        "category": "laptops",
+        "price": 1299,
+        "location": "Los Angeles",
+        "seller": {
+          "id": 3,
+          "name": "Emily Johnson",
+          "email": "emilyjohnson@example.com"
+        },
+        "images": [
+         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9L8vIG9Rp_s2WjIIi0qGyGL8NFYUfV3q-EsiSwHnjF7t-bu7Ux2mcuRsnfoyoXl5Xl494Xtxq5Py77nzZlhXWH5mcYoYlyEQiF_H_F88X3CtWE9HlLTxI"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 10,
+        "title": "Microsoft Surface Laptop 5",
+        "description": "The Microsoft Surface Laptop 4 offers a balance of performance and portability.",
+        "category": "laptops",
+        "price": 13990,
+        "location": "San Francisco",
+        "seller": {
+          "id": 3,
+          "name": "Emily Johnson",
+          "email": "emilyjohnson@example.com"
+        },
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTh2E8WtofEjk6iQ-w9fyRl2VVgEoGHGlp13bJitc6GQwXpYA3t5FJrZB3DEZm3b5QRcdI1j0-4PDNxDtjMoK3QeoSIfqrcog4q-zQGh97styueqWMLvZ-g8Q"
+        ],
+        "createdAt": "2023-06-09"
+      },
+      {
+        "id": 11,
+        "title": "MacBook Pro 2023",
+        "description": "The MacBook Pro is a powerful and versatile laptop for professionals.",
+        "category": "laptops",
+        "price": 1799,
+        "location": "New York",
+        "seller": {
+          "id": 4,
+          "name": "Michael Brown",
+          "email": "michaelbrown@example.com"
+        },
+        "images": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSd5IgKxgvqqxHgkc6qaIxJf8JJDPSKDOwbmMKKr6d8PGNuCbnfjF19Mz8KgrbdcHWUmDppw1cFlh7rb_w4Hydus7_4iRm0yECGXucZTOdDxP_8sHv_KGkhCQ"
+        ],
+        "createdAt": "2023-06-09"
+      }
+    ]
+  }
